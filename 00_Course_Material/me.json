@@ -1,0 +1,13 @@
+{
+    "name": "Christian",
+    "age": 27,
+    "home": true,
+    "car": true,
+    "job": true,
+    "hobbies": [
+        "gaming",
+        "coding",
+        "movies"
+    ]
+}
+
